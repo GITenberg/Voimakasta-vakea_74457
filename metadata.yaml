@@ -1,5 +1,8 @@
 _repo: Voimakasta-vakea_74457
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Malmberg, Aino
@@ -12,6 +15,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Aino_Malmberg
     - https://en.wikipedia.org/wiki/Aino_Malmberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74457#Voimakasta-vakea
 gutenberg_issued: '2024-09-21'
 gutenberg_type: Text
 identifiers:
